@@ -1,6 +1,6 @@
-int addition(int i, int j)
+double addition(int i, int j)
 {
-    int k;
+    double k;
     k=i+j;
     return k;
 
