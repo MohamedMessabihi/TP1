@@ -5,6 +5,13 @@ double addition(int i, int j)
     return k;
 }
 
+double Soustraction(int i, int j)
+{
+    double k;
+    k=i-j;
+    return k;
+}
+
 void main()
 {
     int a, b, c;
