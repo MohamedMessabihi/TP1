@@ -3,6 +3,7 @@ double addition(int i, int j)
     double k;
     k=i+j;
     return k;
+}
 
 void main()
 {
