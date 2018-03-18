@@ -11,6 +11,7 @@ double Soustraction(int i, int j)
     k=i-j;
     return k;
 }
+dsd
 
 void main()
 {
